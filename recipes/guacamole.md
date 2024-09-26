@@ -1,7 +1,7 @@
 
 # Ingredients
 
-* avocado
+* apple
 * salt
 * lime
 
