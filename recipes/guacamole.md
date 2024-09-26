@@ -1,7 +1,7 @@
 
 # Ingredients
 
-* avocado
+* pear
 * salt
 * lime
 
