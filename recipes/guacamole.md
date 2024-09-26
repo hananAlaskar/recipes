@@ -1,7 +1,11 @@
 
 # Ingredients
 
+<<<<<<< HEAD
 * pear
+=======
+* apple
+>>>>>>> 9bf72a6a5970ecac430cfd1efd163643587a3e9c
 * salt
 * lime
 
